@@ -10,6 +10,8 @@ En la empresa `Patito-Corp` un mal desarrollador creó una clase que contenía u
 
 Tu trabajo será clonar el presente proyecto y dar tu metodología, recuerda que no debes preocuparte si obtienes el mejor performance 
 
+La solución se encuentra en el branch de `solucion`, por favor no ver hasta haberlo intentado varias veces. 
+
 ## Pistas
 <details>
   <summary>Haz clic aquí para ver la pista (sólo si es necesario)</summary>
